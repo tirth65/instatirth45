@@ -1,0 +1,145 @@
+
+.photo
+{
+    height: 10vh;
+    width: 10vh;
+    border-color: black;
+    border-radius: 50%;
+}
+.name
+{
+    margin-top: -2vh;
+    margin-left: 5vh;
+}
+.content
+{
+    margin-top: 17vh;
+    margin-left: -45vh;
+
+}
+.C2
+{
+    margin-top: 1vh;
+    margin-left: 0vh;
+}
+.img1
+{
+    height: 10vh;
+    width: 10vh;
+    border-color: black;
+    border-radius: 50%;
+    margin-left: 5vh;
+    margin-top: 3vh;
+}
+.profile
+{
+   
+    display: flex;
+    margin-left: 35vh;
+    /* justify-content: space-between; */
+}
+.follow
+{
+    justify-content: space-evenly;
+    display: flex;
+    margin-left: 15vh;
+    margin-top: 5vh;
+}
+.f1
+{
+    margin-left: 2vh;
+}
+.f2
+{
+    margin-left: 5vh;
+}
+.f3
+{
+    margin-left: 6vh;
+}
+.f11
+{
+    margin-left: -1vh;
+    margin-top: -2vh;
+}
+.f22
+{
+    margin-left: -2vh;
+    margin-top: -2vh;
+}
+.f33
+{
+    margin-left: -2vh;
+    margin-top: -2vh;
+}
+
+#post
+{
+    display: flex;
+    margin-top: 24vh;
+    margin-left: -67vh;
+}
+.img2
+{
+    height: 30vh;
+    width: 25vh;
+    margin: 1vh;
+
+}
+.img3
+{
+    height: 30vh;
+    width: 25vh;
+    margin: 1vh;
+}
+.img4
+{
+    height: 30vh;
+    width: 25vh;
+    margin: 1vh;
+}
+
+#post2
+{
+    display: flex;
+    margin-top: 63vh;
+    margin-left: -7vh;
+}
+.img5
+{
+    height: 30vh;
+    width: 25vh;
+    margin: 1vh;
+
+}
+.img6
+{
+    height: 30vh;
+    width: 25vh;
+    margin: 1vh;
+}
+.img7
+{
+    height: 30vh;
+    width: 25vh;
+    margin: 1vh;
+}
+
+#like
+{
+    margin-top: 57vh;
+    margin-left: -80vh;
+}
+.imglike
+{
+    height: 5vh;
+    width: 5vh;
+}
+.imglike2
+{
+    
+    height: 5vh;
+    width: 5vh;
+}
+
+
